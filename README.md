@@ -3,7 +3,8 @@
 Python と pygame で制作した、トラップを避けてゴールを目指す2Dダンジョン探索ゲームです。
 ゴールに着くたびに新しいマップが自動生成され、プレイヤーの被弾の記録をもとに危険を知らせるヒント機能を備えています。
 
-![プレイ画面](screenshot.png)
+![プレイ画面]<img width="1052" height="432" alt="screenshot" src="https://github.com/user-attachments/assets/c27a691e-0187-4e36-a32b-890504be6082" />
+
 
 | 色 | 意味 |
 | --- | --- |
